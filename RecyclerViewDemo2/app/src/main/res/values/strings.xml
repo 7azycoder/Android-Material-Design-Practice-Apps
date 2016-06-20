@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo2</string>
+    <string-array name="film_names">
+        <item>"Spectre"</item>
+        <item>"Creed"</item>
+        <item>"Inside Out"</item>
+        <item>"Ant Man"</item>
+        <item>"Legend"</item>
+        <item>"SpotLight"</item>
+        <item>"Carrol"</item>
+        <item>"Brooklyn"</item>
+        <item>"Goosebumps"</item>
+    </string-array>
+    <string-array name="director_names">
+        <item>"Sam Mendes"</item>
+        <item>"Ryan Googler"</item>
+        <item>"Peter Docter"</item>
+        <item>"Peyton Reed"</item>
+        <item>"Brian Helgeland"</item>
+        <item>"Tom McCarthy"</item>
+        <item>"Todd Haynes"</item>
+        <item>"John Cowley"</item>
+        <item>"Rob Letterman"</item>
+    </string-array>
+</resources>
