@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CardViewDemo</string>
+    <string-array name="person_name">
+        <item>"Lovepreet Singh"</item>
+        <item>"Avii Samra"</item>
+        <item>"Lovey Singh"</item>
+        <item>"Dheeraj Asnani"</item>
+        <item>"Chetan Mann"</item>
+        <item>"Disha Shokeen"</item>
+        <item>"Akanksha Ahuja"</item>
+        <item>"Ishu CHoudhary"</item>
+        <item>"Jagmeet Singh"</item>
+        <item>"Gurpreet Singh"</item>
+    </string-array>
+    <string-array name="person_email">
+        <item>"lovepreet@gmail.com"</item>
+        <item>"asamra@gmail.com"</item>
+        <item>"lovey@yahoo.com"</item>
+        <item>"asnani@yahoo.com"</item>
+        <item>"chm@gmail.com"</item>
+        <item>"disha@yahoo.com"</item>
+        <item>"akki@yahoo.com"</item>
+        <item>"ishu@gmail.com"</item>
+        <item>"jaggu@gmail.com"</item>
+        <item>"preet@gmail.com"</item>
+    </string-array>
+    <string-array name="person_mobile">
+        <item>"9560393992"</item>
+        <item>"9560393933"</item>
+        <item>"9560335227"</item>
+        <item>"9560393922"</item>
+        <item>"5525272772"</item>
+        <item>"9560393952"</item>
+        <item>"9560322192"</item>
+        <item>"9520393992"</item>
+        <item>"9560398888"</item>
+        <item>"9560377777"</item>
+    </string-array>
+
+</resources>
