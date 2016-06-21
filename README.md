@@ -1,2 +1,2 @@
 # Android-Material-Design-Practice-Apps
-Basic material desing apps
+Basic material design apps
